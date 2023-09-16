@@ -67,7 +67,7 @@ Before you start, please consider that if you want to self-host this bot for per
 
 And yes, it's same for replit.
 
-You are looking for the All-in-One bot? [Click here](https://github.com/Reedroux-LCC)
+You are looking for the All-in-One bot? [Click here](https://github.com/Reedroux)
 
 Before starting, make you sure you have a mongoDB database (it's free) and nodejs v16.
 
@@ -110,7 +110,7 @@ Enjoy your bot !
 
 
 ### Public Usage
-> You must keep the credits and must mention this repository or links to code authors [@Reedroux LCC](https://github.com/reedroux-lcc),
+> You must keep the credits and must mention this repository or links to code authors [@Reedroux LLC](https://github.com/reedroux),
 Or we will issue a DMCA for the code. Please respect the code authours and keep the credits.
 
-<h6 align="center">©️ Project Reedroux LCC</h6>
+<h6 align="center">©️ Project Reedroux LLC</h6>
