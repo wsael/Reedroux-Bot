@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Reedroux bot" src="https://tools.bananonz.dev/av?id=783708073390112830">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Reedroux bot" src="https://cdn.discordapp.com/avatars/1066057160125059112/f126aef5fd58d7dae9fe299e659d23f7.png?size=4096">
     <h3>Reedroux-bot</h3>
         If you liked this repository, feel free to leave a star ⭐ and follow me, it supports me a lot! Thanks you!
     <br><br>
