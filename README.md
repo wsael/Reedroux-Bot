@@ -120,6 +120,9 @@ https://opensource.guide/how-to-contribute/
 - [@dawgcodes](https://www.github.com/dawgcodes)
 - [@wsael ](https://www.github.com/wsael)
 
+## Bot Lists
+[![Discord Bots](https://top.gg/api/widget/1066057160125059112.svg)](https://top.gg/bot/1066057160125059112)
+[![Discord Bot List](https://discordbotlist.com/api/bots/reedroux/widget)](https://discordbotlist.com/bots/reedroux)
   
 ## License
 
