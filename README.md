@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Reedroux bot" src="https://tools.bananonz.dev/av?id=783708073390112830">
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Reedroux bot" src="https://cdn.discordapp.com/avatars/1066057160125059112/f126aef5fd58d7dae9fe299e659d23f7.png?size=4096">
     <h3>Reedroux-bot</h3>
         If you liked this repository, feel free to leave a star ⭐ and follow me, it supports me a lot! Thanks you!
     <br><br>
@@ -15,28 +15,28 @@
                 color: white;
                 border-radius: 8px;
                 font-size: 16px;
-                font-weight: bold;" rel="nofollow" class="blue-btn" href="https://dsc.gg/reedroux"> Add the main bot •</a>
+                font-weight: bold;" rel="nofollow" class="blue-btn" href="https://reedroux.biz/invite"> Add the main bot •</a>
             <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" style="  margin: 2px 5px;
                 padding: 8px 15px;
                 background-color: white;
                 color: black;
                 border-radius: 8px;
                 font-size: 16px;
-                font-weight: bold;" href="https://dsc.gg/redrxbot"> Support server •</a>
+                font-weight: bold;" href="https://reedroux.biz/support"> Support server •</a>
             <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" style="  margin: 2px 5px;
                 padding: 8px 15px;
                 background-color: #3A871F;
                 color: white;
                 border-radius: 8px;
                 font-size: 16px;
-                font-weight: bold;" href="https://reedrouxmusic.vercel.app/"> Dashboard •</a>
+                font-weight: bold;" href="https://reedroux.biz/"> Dashboard •</a>
             <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" style="  margin: 2px 5px;
                        padding: 8px 15px;
                        background-color: white;
                        color: black;
                        border-radius: 8px;
                        font-size: 16px;
-                       font-weight: bold;" href="https://green-bot.app/commands"> Commands list </a>
+                       font-weight: bold;" href="https://reedroux.biz"> Commands list </a>
         </div>
     </center>
     
@@ -60,14 +60,14 @@
 **📁 Installation**
 
 Note: 
-- If you need help with the installation, you can join our [Discord Server](https://dsc.gg/redrxbot).
+- If you need help with the installation, you can join our [Discord Server](https://reedroux.biz/support).
 - The code isn't the same as production, this version is made to learn people how it works but it's not the same as Green-Bot.
 
 Before you start, please consider that if you want to self-host this bot for personal use you should purchase a custom bot. Installation is not beginner friendly.
 
 And yes, it's same for replit.
 
-You are looking for the All-in-One bot? [Click here](https://github.com/Reedroux-LCC)
+You are looking for the All-in-One bot? [Click here](https://github.com/Reedroux)
 
 Before starting, make you sure you have a mongoDB database (it's free) and nodejs v16.
 
@@ -109,8 +109,45 @@ __Step 5.__
 Enjoy your bot !
 
 
-### Public Usage
-> You must keep the credits and must mention this repository or links to code authors [@Reedroux LCC](https://github.com/reedroux-lcc),
-Or we will issue a DMCA for the code. Please respect the code authours and keep the credits.
+## Contributing
 
-<h6 align="center">©️ Project Reedroux LCC</h6>
+Contributions are always welcome!
+And please read this before contributing.
+https://opensource.guide/how-to-contribute/
+  
+## Authors
+
+- [@dawgcodes](https://www.github.com/dawgcodes)
+- [@wsael ](https://www.github.com/wsael)
+
+## Bot Lists
+[![Discord Bots](https://top.gg/api/widget/1066057160125059112.svg)](https://top.gg/bot/1066057160125059112)
+[![Discord Bot List](https://discordbotlist.com/api/bots/reedroux/widget)](https://discordbotlist.com/bots/reedroux)
+  
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+```
+MIT License
+
+Copyright (c) 2021 Reedroux
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```
